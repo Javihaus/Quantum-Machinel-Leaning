@@ -8,3 +8,6 @@ Based on the article 'Circuit-centric quantum classifiers' by Maria Schuld, Alex
 
 # Classification Result
 ![main](/Screenshots/ClassPlot.png)
+
+# Probability and Loss
+![main](/Screenshots/Loss.png)
