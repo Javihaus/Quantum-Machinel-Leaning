@@ -11,3 +11,8 @@ Based on the article 'Circuit-centric quantum classifiers' by Maria Schuld, Alex
 
 # Probability and Loss
 ![main](/Screenshots/Loss.png)
+
+# Comparison with other Scikitlearn algorithms
+![main](/Screenshots/Comparison.png)
+
+https://www.linkedin.com/pulse/deber%25C3%25ADamos-invertir-en-computaci%25C3%25B3n-cu%25C3%25A1ntica-hoy-javier-marin/?trackingId=Ow%2BmJhdRH7Tguxj0nxhARA%3D%3D
