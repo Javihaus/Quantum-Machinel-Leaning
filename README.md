@@ -5,3 +5,6 @@ Based on the article 'Circuit-centric quantum classifiers' by Maria Schuld, Alex
 
 # Quantum circuit
 ![main](/Screenshots/QuantumCircuit.png)
+
+# Classification Result
+![main](/Screenshots/ClassPlot.png)
